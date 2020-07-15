@@ -1,0 +1,19 @@
+         .winner{
+			color:green;
+
+		  }
+		.yes{
+			background:url("https://pbs.twimg.com/profile_images/427475930/winner.jpg");
+		}
+		.yo{
+			background:url("https://michiganlottery.files.wordpress.com/2017/08/winner-3.jpg");
+		}
+		body{
+			background:url("http://crossfitamsterdam.files.wordpress.com/2013/03/pirates-let-the-games-begin-hunger-games.jpg");
+		}
+		h1{
+			color:white;
+		}
+		p{
+			color:white;
+		}
